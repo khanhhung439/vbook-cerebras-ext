@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "Hmm",
+    "description": "Cerebras Qwen3 Translate"
+  },
+  "data": [
+    {
+      "name": "Cerebras Qwen3 Translate",
+      "author": "Hmm",
+      "version": 1,
+      "source": "https://cloud.cerebras.ai",
+      "path": "https://raw.githubusercontent.com/TÊN_BẠN/vbook-cerebras-ext/main/cerebras-qwen3-translate.zip",
+      "description": "Dịch truyện bằng Cerebras Qwen3 - Miễn phí, cực nhanh!",
+      "type": "translate"
+    }
+  ]
+}
