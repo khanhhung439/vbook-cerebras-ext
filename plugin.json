@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "author": "khanhhung439",
+    "author": "Hmm",
     "description": "Cerebras Qwen3 Translate"
   },
   "data": [
     {
       "name": "Cerebras Qwen3 Translate",
-      "author": "khanhhung439",
+      "author": "Hmm",
       "version": 1,
       "source": "https://cloud.cerebras.ai",
       "path": "https://raw.githubusercontent.com/khanhhung439/vbook-cerebras-ext/main/cerebras-qwen3-translate.zip",
