@@ -9,7 +9,7 @@
       "author": "khanhhung439",
       "version": 1,
       "source": "https://cloud.cerebras.ai",
-      "path": "https://raw.githubusercontent.com/khanhhung439/vbook-cerebras-ext/main/cerebras-qwen3-translate.zip",
+      "path": "https://raw.githubusercontent.com/khanhhung439/vbook-cerebras-ext/main/cerebras-qwen3-translate-v3.zip",
       "description": "Dịch truyện bằng Cerebras Qwen3 - Miễn phí, cực nhanh!",
       "type": "translate"
     }
